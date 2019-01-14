@@ -1,0 +1,58 @@
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\bin\Release\gurafu.exe.config
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\bin\Release\gurafu.exe
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\bin\Release\gurafu.pdb
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\bin\Release\MathNet.Numerics.dll
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\bin\Release\MathNet.Numerics.xml
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\obj\Release\gurafu.Form1.resources
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\obj\Release\gurafu.Properties.Resources.resources
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\obj\Release\gurafu.csproj.GenerateResource.Cache
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\obj\Release\gurafu.exe
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\obj\Release\gurafu.pdb
+C:\Users\eagle\Desktop\一時\gurafu\gurafu\obj\Release\gurafu.csprojResolveAssemblyReference.cache
+C:\Users\Takayuki\Desktop\gurafu\gurafu\bin\Release\gurafu.exe.config
+C:\Users\Takayuki\Desktop\gurafu\gurafu\obj\Release\gurafu.exe
+C:\Users\Takayuki\Desktop\gurafu\gurafu\obj\Release\gurafu.pdb
+C:\Users\Takayuki\Desktop\gurafu\gurafu\bin\Release\gurafu.exe
+C:\Users\Takayuki\Desktop\gurafu\gurafu\bin\Release\gurafu.pdb
+C:\Users\Takayuki\Desktop\gurafu\gurafu\bin\Release\MathNet.Numerics.dll
+C:\Users\Takayuki\Desktop\gurafu\gurafu\bin\Release\MathNet.Numerics.xml
+C:\Users\Takayuki\Desktop\gurafu\gurafu\obj\Release\gurafu.csprojResolveAssemblyReference.cache
+C:\Users\Takayuki\Desktop\gurafu\gurafu\obj\Release\gurafu.Form1.resources
+C:\Users\Takayuki\Desktop\gurafu\gurafu\obj\Release\gurafu.Properties.Resources.resources
+C:\Users\Takayuki\Desktop\gurafu\gurafu\obj\Release\gurafu.csproj.GenerateResource.Cache
+C:\Users\eagle\Desktop\gurafu\gurafu\bin\Release\gurafu.exe.config
+C:\Users\eagle\Desktop\gurafu\gurafu\obj\Release\gurafu.exe
+C:\Users\eagle\Desktop\gurafu\gurafu\obj\Release\gurafu.pdb
+C:\Users\eagle\Desktop\gurafu\gurafu\bin\Release\gurafu.exe
+C:\Users\eagle\Desktop\gurafu\gurafu\bin\Release\gurafu.pdb
+C:\Users\eagle\Desktop\gurafu\gurafu\bin\Release\MathNet.Numerics.dll
+C:\Users\eagle\Desktop\gurafu\gurafu\bin\Release\MathNet.Numerics.xml
+C:\Users\eagle\Desktop\gurafu\gurafu\obj\Release\gurafu.csprojResolveAssemblyReference.cache
+C:\Users\eagle\Desktop\gurafu\gurafu\obj\Release\gurafu.Form1.resources
+C:\Users\eagle\Desktop\gurafu\gurafu\obj\Release\gurafu.Properties.Resources.resources
+C:\Users\eagle\Desktop\gurafu\gurafu\obj\Release\gurafu.csproj.GenerateResource.Cache
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\gurafu\gurafu\bin\Release\gurafu.exe.config
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\gurafu\gurafu\obj\Release\gurafu.exe
+E:\近大高専卒研 - 飯田嵩之\ごねんせい\いいだ\gurafu\gurafu\obj\Release\gurafu.pdb
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\bin\Release\gurafu.exe.config
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\obj\Release\gurafu.exe
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\obj\Release\gurafu.pdb
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\bin\Release\gurafu.exe
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\bin\Release\gurafu.pdb
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\bin\Release\MathNet.Numerics.dll
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\bin\Release\MathNet.Numerics.xml
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\obj\Release\gurafu.csprojResolveAssemblyReference.cache
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\obj\Release\gurafu.Form1.resources
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\obj\Release\gurafu.Properties.Resources.resources
+C:\Users\eagle\Desktop\近大高専卒研 - 飯田嵩之\いいだ\gurafu\gurafu\obj\Release\gurafu.csproj.GenerateResource.Cache
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\bin\Release\gurafu.exe.config
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\obj\Release\gurafu.exe
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\obj\Release\gurafu.pdb
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\bin\Release\gurafu.exe
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\bin\Release\gurafu.pdb
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\bin\Release\MathNet.Numerics.dll
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\bin\Release\MathNet.Numerics.xml
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\obj\Release\gurafu.csprojResolveAssemblyReference.cache
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\obj\Release\gurafu.Form1.resources
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\obj\Release\gurafu.Properties.Resources.resources
+C:\Users\Takayuki\Documents\近大高専\研究\gurafu\gurafu\obj\Release\gurafu.csproj.GenerateResource.Cache
