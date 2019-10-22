@@ -1,3 +1,7 @@
+[![license-WPFTL](https://img.shields.io/badge/license-WTFPL-green)](http://www.wtfpl.net)
+
+```私的/商用利用、改変、再配布自由です```
+
 # 至り
 1. 木材の画像から節の部分とそうでない部分を一画素ごとに(R,G,B,H,S,V)の組み合わせでロジスティック回帰分析する。
 2. 算出された式を使って他の木材の画像から節の検出を行い、その部分を(#ff0000)で塗る。
